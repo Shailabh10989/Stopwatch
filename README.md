@@ -1,6 +1,6 @@
-# alarm
+# Stopwatch
 
-Alarm application.
+ A simple stopwatch application with some features.
 
 ## Getting Started
 
